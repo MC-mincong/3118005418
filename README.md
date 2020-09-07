@@ -1,4 +1,6 @@
-### Hi there 👋
+Name：卢敏聪</br>
+E-mail：583093007@qq.com</br>
+introduction：本人活泼开朗，爱好打羽毛球，目前单身，学习能力过得去，编程能力较弱。</br>
 
 <!--
 **MC-mincong/MC-mincong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
